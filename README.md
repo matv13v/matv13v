@@ -1,5 +1,5 @@
-# Hi, my name is Ilya 😊
-## About me
+# ⭐️ Hi, my name is Ilya ⭐️
+## 💻 About me
 
 - In iOS development since 2019 
 - Developing mobile apps on **Swift**
