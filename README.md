@@ -2,7 +2,7 @@
 ## About me
 
 - In iOS development since 2019 
-- Developing mobile apps with Swift
-- Сross-platform development with React Native
-- Backend development with NestJS
+- Developing mobile apps on Swift
+- Сross-platform development on React Native
+- Backend development using NestJS
 - Tokens and smart contracts on Solidity
