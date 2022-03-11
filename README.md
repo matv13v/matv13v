@@ -1,4 +1,5 @@
-# ⭐️ Hi, my name is Ilya ⭐️
+# ⭐ Hi, I'm Ilya ⭐️
+
 ## 💻 About me
 
 - In iOS development since 2019 
@@ -7,3 +8,7 @@
 - Backend development using **NestJS**
 - Tokens and smart contracts on **Solidity**
 - **Git** master
+
+## 🤝 Connect with me
+
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/matv13v)
