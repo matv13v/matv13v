@@ -3,10 +3,11 @@
 ## 💻 About me
 
 - In iOS development since 2019 
-- Developing mobile apps on **Swift** / **Objective-C**
-- Сross-platform development on **React Native**
-- Backend development using **NestJS**
-- Tokens and smart contracts on **Solidity**
+- Mobile development for iOS | **Swift, Objective-C**
+- Сross-platform development | **Typescript, JavaScript + React Native**
+- Backend development using | **Typescript, JavaScript + NestJS**
+- Writing Contracts for Ethereum | **Solidity**
+- **CI/CD** setup
 - **Git** master
 
 ## 🤝 Connect with me
